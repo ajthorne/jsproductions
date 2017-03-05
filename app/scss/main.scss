@@ -1,0 +1,19 @@
+@import 'variables';
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  height: 100%;
+  margin: 0;
+
+  .container {
+    min-height: 100%;
+    background: url('/assets/images/thisiswhatlovelookslike.png')
+  }
+}
