@@ -28,7 +28,7 @@ body {
     font-size: 48px;
     color: white; }
   body .main {
-    min-height: 95vh;
+    min-height: 96vh;
     background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)); }
   body a {
     text-decoration: none;
